@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the subject description and information
+  about course meeting times, quizzes, presentations, papers, grading criteria, listening
+  assignments, scores, and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

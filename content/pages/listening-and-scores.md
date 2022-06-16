@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the works assigned for each class session, with scores
+  to reference and various recorded performances of each work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening and Scores
