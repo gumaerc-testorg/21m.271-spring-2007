@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the works assigned for each class session, with scores
+  to reference and various recorded performances of each work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening and Scores
 uid: 7ce7e81a-3acc-3957-2f5c-c5a02dab2d7f
 ---
@@ -35,10 +39,10 @@ RECORDINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A "pictorial" concerto by Antonio Vivaldi (1678-1741) before age 47 and a "dramatic" symphony by Ludwig van Beethoven (1770-1827) at 38
 {{< tdclose >}}
 {{< tdopen >}}
@@ -87,10 +91,10 @@ DVD: _The Beethoven Symphonies: Nos. 4 and 7_. Berliner Philharmoniker, Claudio 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Baroque structure in orchestral concertos by Johann Sebastian Bach (1685-1750) before age 36 and Igor Stravinsky (1882-1971) at 56
@@ -120,7 +124,7 @@ _Brandenburg Concertos_. Il Giardino Armonico, Giovanni Antonini. Recorded at RT
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Stravinsky, Igor. _Dumbarton Oaks Concerto_ in Eb for a chamber orchestra of 15 instruments: Flute, clarinet, bassoon, 2 horns, 3 violins, 3 violas, 2 cellos and 2 double basses (Dumbarton Oaks, Nadia Boulanger 1938)
+Stravinsky, Igor. _Dumbarton Oaks Concerto_ in E{{< sup "b" >}} for a chamber orchestra of 15 instruments: Flute, clarinet, bassoon, 2 horns, 3 violins, 3 violas, 2 cellos and 2 double basses (Dumbarton Oaks, Nadia Boulanger 1938)
 {{< tdclose >}}
 {{< tdopen >}}
 _Concerto en mi pour orchestre de chamber_. New York, NY: Associated Music Publications, 1938.
@@ -155,10 +159,10 @@ _A Haydn Festival_. Academy of Ancient Music, Christopher Hogwood, Friedemann Im
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Baroque perfection in Bach by 36
@@ -207,10 +211,10 @@ _Symphony no. 36 in C major: 'Linz'; Symphony no. 38 in D major: 'Prague'_. Prag
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A fiery/dark/minor and calm/bright/major pair of piano concertos by Mozart at 29
 {{< tdclose >}}
 {{< tdopen >}}
@@ -249,10 +253,10 @@ _The Piano Concertos_. English Baroque Soloists, John Eliot Gardiner, Malcolm Bi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Consummate craft in three of Mozart's last four symphonies, at 30-33
 {{< tdclose >}}
 {{< tdopen >}}
@@ -321,14 +325,14 @@ _Symphony no. 40 in G minor, K. 550; Symphony no. 41 in C major, K. 551: 'Jupite
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Beethoven's "heroic" and "pastoral" symphonies, at 35-38
 {{< tdclose >}}
 {{< tdopen >}}
-Beethoven, Ludwig van. _Symphony #3 ("Eroica")_ in Eb, op. 55 (Vienna, Beethoven 1805)
+Beethoven, Ludwig van. _Symphony #3 ("Eroica")_ in E{{< sup "b" >}}, op. 55 (Vienna, Beethoven 1805)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -381,10 +385,10 @@ _Symphonies nos. 5 and 6_. Tonhalle Orchestra Zürich, David Zinman. Munich, Ger
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The transcendent pianist in concertos by Beethoven at 38, Franz Liszt (1811-86) at 44, and Serge Prokofiev (1891-1953) at 30
 {{< tdclose >}}
 {{< tdopen >}}
@@ -408,7 +412,7 @@ _Piano Concertos, nos. 1-5_. Chamber Orchestra of Europe, Nikolaus Harnoncourt, 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Liszt, Franz. _Piano Concerto #1_ in Eb (Weimar, Liszt/Berlioz 1855)
+Liszt, Franz. _Piano Concerto #1_ in E{{< sup "b" >}} (Weimar, Liszt/Berlioz 1855)
 {{< tdclose >}}
 {{< tdopen >}}
 _The Concerto 1800-1900; a Norton Music Anthology_. Edited by Paul Henry Lang. New York, NY: Norton, 1969, pp. 413-71. ISBN: 9780393098693.
@@ -445,10 +449,10 @@ _Martha Argerich_. Berliner Philharmoniker, Claudio Abbado, Martha Argerich. Rec
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Symphonies with messages requiring voices: The 9th by Beethoven at 54 and the 7th by Krzysztof Penderecki (b. 1933) at 64
 {{< tdclose >}}
 {{< tdopen >}}
@@ -497,10 +501,10 @@ _Seven Gates of Jerusalem; Symphony no. 7_. National Philharmonic Choir and Orch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Franz Schubert (1797-1828), a supreme lyricist who emulated Beethoven, at 25-31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -549,10 +553,10 @@ _Symphony no. 9: "The great," in C major; Symphony no. 8: "Unfinished," in B min
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Fantastic orchestration animates the programs in Hector Berlioz (1803-69) at 27, Richard Strauss (1864-1949) at 31, and Bela Bartók (1881-1945) at 63
 {{< tdclose >}}
 {{< tdopen >}}
@@ -623,10 +627,10 @@ _Orchestral Pieces, op. 12 Sz 51; Concerto for Orchestra, Sz 116_. Chicago Symph
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Romantic reveries in concertos by Felix Mendelssohn (1809-47) at 36, Robert Schumann (1810-56) at 31, and Johannes Brahms (1833-97) at 46
 {{< tdclose >}}
 {{< tdopen >}}
@@ -735,10 +739,10 @@ Mid-semester quiz
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Restoration of bygone forms by Johannes Brahms (1833-97) at 43, Arnold Schoenberg (1874-1951) at 33, Anton Webern (1883-1945) at 46, and Paul Hindemith (1895-1963) at 39
 {{< tdclose >}}
 {{< tdopen >}}
@@ -813,10 +817,10 @@ _Symphony Hall centennial Celebration: From the Broadcast Archives, 1943-2000_. 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Romantic features in violin concertos by Peter Ilyich Tchaikovsky (1840-93) at 41, Alban Berg (1885-1935) at 50, and John C. Adams (b. 1947) at 46
 {{< tdclose >}}
 {{< tdopen >}}
@@ -873,10 +877,10 @@ _Violin Concertos of John Adams and Philip Glass. Houston Symphony_, Christoph E
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Symphonic manifestos by Tchaikovsky at 48 and Dmitri Shostakovich (1906-75) at 31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -921,10 +925,10 @@ _Symphony no. 5 in D minor; The rite of spring_. The Cleveland Orchestra; Lorin 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 "New World" elements in works by Antonín Dvorák (1841-1904) at 52, George Gershwin (1898-1937) at 26, and Aaron Copland (1900-90) at 50
 {{< tdclose >}}
 {{< tdopen >}}
@@ -983,10 +987,10 @@ _Orchestral and Ballet Works_, 1936-1948. New Philharmonia Orchestra; London Sym
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Post-Romantic concertos by Sergei Rachmaninoff (1873-1943) at 36, Samuel Barber (1910-81) at 52, and Edward Elgar (1857-1934) at 62
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1049,10 +1053,10 @@ DVD: _Remembering Jacqueline du Pré_. Jacqueline du Pré, Daniel Barenboim. Hay
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The refreshing French air provided by Claude Debussy (1862-1918) at 43, Maurice Ravel (1875-1937) at 57, and Henri Dutilleux (b. 1916) at 43
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1113,10 +1117,10 @@ _Symphony no. 2; Métaboles; Timbres, espace, mouvement, ou La nuit étoilée_. 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Gustav Mahler (1860-1911) at 52 and Charles Ives (1874-1954) at 35-42, the spiritual, philosophical, religious and hermeneutic culmination of the symphonic genre
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1161,10 +1165,10 @@ _Three Places in New England; Symphony no. 4; Central Park in the Dark_. Boston 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Splinterings of the symphonic genre in Stravinsky at 31, Roy Harris (1898-1979) at 41, and William Schuman (1910-92) at 31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -1223,10 +1227,10 @@ _Symphonies no. 3 and no. 8; Symphony for Strings_. New York Philharmonic, Leona
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 22
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Concertos by composers in America: John Harbison (b. 1938) at 52, Libby Larsen (b. 1950) at 42, Peter Child (b. 1953) at 49, Evan Ziporyn (b. 1959) at 43, and Keeril Makan (b. 1972) at 34
 {{< tdclose >}}
 {{< tdopen >}}

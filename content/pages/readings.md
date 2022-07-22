@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on course texts and the schedule of
+  readings by topic and session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4cfb659a-8d63-6b5b-de13-f5d03b53024d
 ---
@@ -43,10 +48,10 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A "pictorial" concerto by Antonio Vivaldi (1678-1741) before age 47 and a "dramatic" symphony by Ludwig van Beethoven (1770-1827) at 38
 {{< tdclose >}}
 {{< tdopen >}}
@@ -83,10 +88,10 @@ DT Vol. I, pp. 38-44
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Baroque structure in orchestral concertos by Johann Sebastian Bach (1685-1750) before age 36 and Igor Stravinsky (1882-1971) at 56
@@ -111,7 +116,7 @@ MR, pp. 89-90
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Stravinsky, Igor. _Dumbarton Oaks Concerto_ in Eb for a chamber orchestra of 15 instruments: Flute, clarinet, bassoon, 2 horns, 3 violins, 3 violas, 2 cellos and 2 double basses (Dumbarton Oaks, Nadia Boulanger 1938)
+Stravinsky, Igor. _Dumbarton Oaks Concerto_ in E{{< sup "b" >}} for a chamber orchestra of 15 instruments: Flute, clarinet, bassoon, 2 horns, 3 violins, 3 violas, 2 cellos and 2 double basses (Dumbarton Oaks, Nadia Boulanger 1938)
 {{< tdclose >}}
 {{< tdopen >}}
 MR, pp. 356-7
@@ -128,10 +133,10 @@ Haydn, Franz Joseph. _Cello Concerto #1_ in C (Esterhazy Palace, unknown/Haydn b
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Baroque perfection in Bach by 36
@@ -172,10 +177,10 @@ DT Vol. I, pp. 183-6
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 A fiery/dark/minor and calm/bright/major pair of piano concertos by Mozart at 29
 {{< tdclose >}}
 {{< tdopen >}}
@@ -208,10 +213,10 @@ MR, pp. 162-3
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Consummate craft in three of Mozart's last four symphonies, at 30-33
 {{< tdclose >}}
 {{< tdopen >}}
@@ -265,14 +270,14 @@ DT Vol. I 195-8
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Beethoven's "heroic" and "pastoral" symphonies, at 35-38
 {{< tdclose >}}
 {{< tdopen >}}
-Beethoven, Ludwig van. _Symphony #3 ("Eroica")_ in Eb, op. 55 (Vienna, Beethoven 1805)
+Beethoven, Ludwig van. _Symphony #3 ("Eroica")_ in E{{< sup "b" >}}, op. 55 (Vienna, Beethoven 1805)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -309,10 +314,10 @@ DT Vol. I, pp. 44-56
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The transcendent pianist in concertos by Beethoven at 38, Franz Liszt (1811-86) at 44, and Serge Prokofiev (1891-1953) at 30
 {{< tdclose >}}
 {{< tdopen >}}
@@ -333,7 +338,7 @@ DT Vol. III, pp. 84-7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Liszt, Franz. _Piano Concerto #1_ in Eb (Weimar, Liszt/Berlioz 1855)
+Liszt, Franz. _Piano Concerto #1_ in E{{< sup "b" >}} (Weimar, Liszt/Berlioz 1855)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -362,10 +367,10 @@ MR, pp. 316-20; compare to PS, pp. 286-300 and LC, pp. 219-20
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Symphonies with messages requiring voices: The 9th by Beethoven at 54 and the 7th by Krzysztof Penderecki (b. 1933) at 64
 {{< tdclose >}}
 {{< tdopen >}}
@@ -402,10 +407,10 @@ LC, pp. 228-30
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Franz Schubert (1797-1828), a supreme lyricist who emulated Beethoven, at 25-31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -446,10 +451,10 @@ DT Vol. I, pp. 205-11
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Fantastic orchestration animates the programs in Hector Berlioz (1803-69) at 27, Richard Strauss (1864-1949) at 31, and Bela Bartók (1881-1945) at 63
 {{< tdclose >}}
 {{< tdopen >}}
@@ -497,10 +502,10 @@ MR, pp. 385-7
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Romantic reveries in concertos by Felix Mendelssohn (1809-47) at 36, Robert Schumann (1810-56) at 31, and Johannes Brahms (1833-97) at 46
 {{< tdclose >}}
 {{< tdopen >}}
@@ -584,10 +589,10 @@ Mid-semester quiz
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Restoration of bygone forms by Johannes Brahms (1833-97) at 43, Arnold Schoenberg (1874-1951) at 33, Anton Webern (1883-1945) at 46, and Paul Hindemith (1895-1963) at 39
 {{< tdclose >}}
 {{< tdopen >}}
@@ -650,10 +655,10 @@ LC, pp. 204-7
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Romantic features in violin concertos by Peter Ilyich Tchaikovsky (1840-93) at 41, Alban Berg (1885-1935) at 50, and John C. Adams (b. 1947) at 46
 {{< tdclose >}}
 {{< tdopen >}}
@@ -695,10 +700,10 @@ MSC, pp. 3-10
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 16
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Symphonic manifestos by Tchaikovsky at 48 and Dmitri Shostakovich (1906-75) at 31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -735,10 +740,10 @@ LC, pp. 220-24
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 "New World" elements in works by Antonín Dvorák (1841-1904) at 52, George Gershwin (1898-1937) at 26, and Aaron Copland (1900-90) at 50
 {{< tdclose >}}
 {{< tdopen >}}
@@ -784,10 +789,10 @@ MR, pp. 422-5 (compare to PS, pp. 390-98 and LC, pp. 217-18)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Post-Romantic concertos by Sergei Rachmaninoff (1873-1943) at 36, Samuel Barber (1910-81) at 52, and Edward Elgar (1857-1934) at 62
 {{< tdclose >}}
 {{< tdopen >}}
@@ -835,10 +840,10 @@ MR, pp. 326-7 and pp. 329-32 (compare to LC, pp. 192-4)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 19
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 The refreshing French air provided by Claude Debussy (1862-1918) at 43, Maurice Ravel (1875-1937) at 57, and Henri Dutilleux (b. 1916) at 43
 {{< tdclose >}}
 {{< tdopen >}}
@@ -874,10 +879,10 @@ Dutilleux, Henri. _Symphony #2 ("Le double")_, mvt 3 (Boston, Munch/BSO, 1959)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Gustav Mahler (1860-1911) at 52 and Charles Ives (1874-1954) at 35-42, the spiritual, philosophical, religious and hermeneutic culmination of the symphonic genre
 {{< tdclose >}}
 {{< tdopen >}}
@@ -916,10 +921,10 @@ LC, pp. 168-73
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Splinterings of the symphonic genre in Stravinsky at 31, Roy Harris (1898-1979) at 41, and William Schuman (1910-92) at 31
 {{< tdclose >}}
 {{< tdopen >}}
@@ -961,10 +966,10 @@ PS, pp. 377-90
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 22
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Concertos by composers in America: John Harbison (b. 1938) at 52, Libby Larsen (b. 1950) at 42, Peter Child (b. 1953) at 49, Evan Ziporyn (b. 1959) at 43, and Keeril Makan (b. 1972) at 34
 {{< tdclose >}}
 {{< tdopen >}}
