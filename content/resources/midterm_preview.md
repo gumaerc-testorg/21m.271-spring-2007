@@ -3,6 +3,7 @@ content_type: resource
 description: This section provides an outline of what to expect for the mid-semester
   quiz of the course.
 file: /courses/21m-271-symphony-and-concerto-spring-2007/05e053867751c671a4ba58ab878638fb_midterm_preview.pdf
+file_size: 16191
 file_type: application/pdf
 learning_resource_types:
 - Exams
