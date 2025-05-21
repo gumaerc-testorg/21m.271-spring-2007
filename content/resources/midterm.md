@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The mid-semester quiz for the course.
-file: /ol-ocw-studio-app/courses/21m-271-symphony-and-concerto-spring-2007/34045d4a439019e07ab9a626838fce5d_midterm.pdf
+file: /courses/21m-271-symphony-and-concerto-spring-2007/34045d4a439019e07ab9a626838fce5d_midterm.pdf
 file_size: 35709
 file_type: application/pdf
 learning_resource_types:
